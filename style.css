@@ -35,3 +35,7 @@ h2 {
 .padding {
 	padding: 20px;
 }
+
+form {
+	line-height: 30px;
+}
